@@ -1,2 +1,2 @@
-# liulangdeyu688.githun.io
+# liulangdeyu688.github.io
 Gridea_blog
